@@ -6,7 +6,7 @@ ___Update System Packages and Install SCRIPT___
 
 ```
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/OsharaShaveen/Devil-VPS-MANAGER/main/devil; chmod 777 devil;./devil
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/OsharaShaveen/BP-SSH-MANAGER/main/devil; chmod 777 devil;./devil
 
 ```
 
